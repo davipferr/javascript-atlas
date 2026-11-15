@@ -10,6 +10,9 @@ hero:
     alt: JavaScript Atlas
   actions:
     - theme: brand
+      text: New to JavaScript? Start with the 80/20 Path
+      link: /pareto
+    - theme: alt
       text: Browse the Feature Index
       link: /features
     - theme: alt
